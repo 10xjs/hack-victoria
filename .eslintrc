@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "metalab/base",
+    "metalab/react"
+  ],
+  "globals": {
+    "fetch": true,
+    "__API_URL__": true,
+    "__SERVER__": true,
+    "__CLIENT__": true,
+    "__DEVELOPMENT__": true,
+    "__PRODUCTION__": true,
+  }
+}
